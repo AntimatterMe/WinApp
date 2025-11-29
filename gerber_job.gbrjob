@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2024-07-30T10:08:15Z",
+        "CreationDate": "2025-11-29T12:55:51Z",
         "GenerationSoftware": {
             "Application": "Fusion Electronics",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "MainBrain MZ PCB v268"
+            "ProjectId": "MainBrain MZ PCB (v545~recovered)"
         },
         "Owner": "Larry Knight <antimatter@antimatter.me>",
         "Size": {
